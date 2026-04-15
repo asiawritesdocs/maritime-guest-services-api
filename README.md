@@ -53,6 +53,6 @@ Use this `POST` request to order amenities or services to a specific cabin.
 |`400 Bad Request`|Invalid query parameters (e.g., price is a string instead of a number).|
 |`400 Not Found`|The specified cabin or excursion ID does not exist.|
 
-📂 About This Documentation
+## 📂 About This Documentation
 
 This project highlights domain-specific technical writing within the travel and logistics industry. It showcases proficiency in documenting complex JSON arrays and filtering logic through query strings.
